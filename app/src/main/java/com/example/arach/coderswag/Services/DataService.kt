@@ -1,14 +1,14 @@
 package com.example.arach.coderswag.Services
 
-import com.example.arach.coderswag.Model.Catagory
+import com.example.arach.coderswag.Model.Category
 import com.example.arach.coderswag.Model.Product
 
 object DataService {
     val catagories = listOf(
-            Catagory("SHIRTS", "shirtimage"),
-            Catagory("HOODIES", "hoodieimage"),
-            Catagory("HATS", "hatimage"),
-            Catagory("DIGITAL", "digitalgoodsimage")
+            Category("SHIRTS", "shirtimage"),
+            Category("HOODIES", "hoodieimage"),
+            Category("HATS", "hatimage"),
+            Category("DIGITAL", "digitalgoodsimage")
     )
     val hats = listOf(
             Product("Devslopes Graphic Beanie", "$18", "hat01"),
