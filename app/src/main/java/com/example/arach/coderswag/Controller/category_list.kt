@@ -1,7 +1,8 @@
-package com.example.arach.coderswag
+package com.example.arach.coderswag.Controller
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.example.arach.coderswag.R
 
 class category_list : AppCompatActivity() {
 
