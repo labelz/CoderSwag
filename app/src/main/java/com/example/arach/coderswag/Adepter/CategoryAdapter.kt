@@ -1,4 +1,4 @@
-package Adepter
+package com.example.arach.coderswag.Adepter
 
 import android.content.Context
 import android.view.LayoutInflater
