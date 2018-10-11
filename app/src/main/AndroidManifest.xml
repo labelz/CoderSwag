@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".Controller.ProductActivity">
         </activity>
+        <activity android:name=".ProductShowActivity">
+        </activity>
     </application>
 
 </manifest>
